@@ -1,0 +1,6 @@
+name: LuckyEgg
+main: me.myPlugin.LuckyEgg.LuckyEgg
+version: 2.0
+author: Alchemy
+commands:
+  luckyegg:

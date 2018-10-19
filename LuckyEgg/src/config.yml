@@ -1,0 +1,89 @@
+Egg:
+  GoldenEgg:
+    Item: key2
+    Tool: tool2
+  LegendEgg:
+    Item: key3
+    Tool: tool3
+  NormalEgg:
+    Item: key
+    Tool: tool1
+GuiTitle: §d§l测试GUI
+Message: §a恭喜 %player% 砸了 %type% 的蛋获得了 %quality% 奖励
+Reward:
+  Golden:
+    优秀:
+      chance: 80
+      reward:
+        - give %player% 1 1
+    传说:
+      chance: 80
+      reward:
+        - give %player% 1 1
+    史诗:
+      chance: 80
+      reward:
+        - give %player% 1 1
+    普通:
+      chance: 80
+      reward:
+        - give %player% 1 1
+    精良:
+      chance: 80
+      reward:
+        - give %player% 1 1
+    远古:
+      chance: 80
+      reward:
+        - give %player% 1 1
+  Legend:
+    优秀:
+      chance: 80
+      reward:
+        - give %player% 1 1
+    传说:
+      chance: 80
+      reward:
+        - give %player% 1 1
+    史诗:
+      chance: 80
+      reward:
+        - give %player% 1 1
+    普通:
+      chance: 80
+      reward:
+        - give %player% 1 1
+    精良:
+      chance: 80
+      reward:
+        - give %player% 1 1
+    远古:
+      chance: 80
+      reward:
+        - give %player% 1 1
+  Normal:
+    优秀:
+      chance: 80
+      reward:
+        - give %player% 1 1
+    传说:
+      chance: 80
+      reward:
+        - give %player% 1 1
+    史诗:
+      chance: 80
+      reward:
+        - give %player% 1 1
+    普通:
+      chance: 80
+      reward:
+        - give %player% 1 1
+    精良:
+      chance: 80
+      reward:
+        - give %player% 1 1
+    远古:
+      chance: 80
+      reward:
+        - give %player% 1 1
+prefix: §f[§6§l砸蛋§f]
